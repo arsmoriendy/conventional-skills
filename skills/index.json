@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "general-agent-conventions",
+      "version": "1",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
