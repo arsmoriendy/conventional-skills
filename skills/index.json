@@ -4,6 +4,11 @@
       "name": "general-agent-conventions",
       "version": "1",
       "files": ["SKILL.md"]
+    },
+    {
+      "name": "harness-tools",
+      "version": "1",
+      "files": ["SKILL.md"]
     }
   ]
 }
